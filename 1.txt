@@ -7,6 +7,13 @@ salam nima
 
 nima
 
+fd(0)
+lt()
+fd()
+for i in range(10):
+    fd
+    lt
+
 salam
 salam
 reza
